@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on lloydf</title>
-    <link>http://example.org/categories/</link>
+    <link>https://lloydlf.github.io/categories/</link>
     <description>Recent content in Categories on lloydf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 21:00:55 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Oct 2021 21:00:55 +0800</lastBuildDate><atom:link href="https://lloydlf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pwet</title>
-      <link>http://example.org/categories/pwet/</link>
+      <link>https://lloydlf.github.io/categories/pwet/</link>
       <pubDate>Sat, 16 Oct 2021 21:00:55 +0800</pubDate>
       
-      <guid>http://example.org/categories/pwet/</guid>
+      <guid>https://lloydlf.github.io/categories/pwet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://example.org/categories/test/</link>
+      <link>https://lloydlf.github.io/categories/test/</link>
       <pubDate>Sat, 16 Oct 2021 21:00:55 +0800</pubDate>
       
-      <guid>http://example.org/categories/test/</guid>
+      <guid>https://lloydlf.github.io/categories/test/</guid>
       <description></description>
     </item>
     

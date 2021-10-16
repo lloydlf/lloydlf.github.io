@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/bwiset/</loc>
+    <loc>https://lloydlf.github.io/tags/bwiset/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lloydlf.github.io/categories/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hello/</loc>
+    <loc>https://lloydlf.github.io/tags/hello/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://lloydlf.github.io/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://lloydlf.github.io/posts/my-first-post/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://lloydlf.github.io/posts/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/pwet/</loc>
+    <loc>https://lloydlf.github.io/categories/pwet/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lloydlf.github.io/tags/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/test/</loc>
+    <loc>https://lloydlf.github.io/categories/test/</loc>
     <lastmod>2021-10-16T21:00:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://lloydlf.github.io/archives/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://lloydlf.github.io/search/</loc>
   </url>
 </urlset>
