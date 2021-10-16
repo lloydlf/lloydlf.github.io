@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>lloydf</title>
     <link>http://example.org/</link>
     <description>Recent content on lloydf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 21:00:55 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Oct 2021 21:22:11 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Sat, 16 Oct 2021 21:22:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/first_post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My 2nd Post</title>
       <link>http://example.org/posts/my-second-post/</link>
@@ -22,8 +31,11 @@
       <pubDate>Sat, 16 Oct 2021 21:00:55 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>This is a test post halooo</description>
+      <description>This is a test post halooo
+https://adityatelange.github.io/hugo-PaperMod/</description>
     </item>
+    
+    
     
   </channel>
 </rss>
